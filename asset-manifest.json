@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-framer-motion-pizza/static/css/main.f0fd58af.chunk.css",
+    "main.js": "/react-framer-motion-pizza/static/js/main.ce0be8e3.chunk.js",
+    "main.js.map": "/react-framer-motion-pizza/static/js/main.ce0be8e3.chunk.js.map",
+    "runtime-main.js": "/react-framer-motion-pizza/static/js/runtime-main.4ae7044a.js",
+    "runtime-main.js.map": "/react-framer-motion-pizza/static/js/runtime-main.4ae7044a.js.map",
+    "static/js/2.bfdb7452.chunk.js": "/react-framer-motion-pizza/static/js/2.bfdb7452.chunk.js",
+    "static/js/2.bfdb7452.chunk.js.map": "/react-framer-motion-pizza/static/js/2.bfdb7452.chunk.js.map",
+    "index.html": "/react-framer-motion-pizza/index.html",
+    "precache-manifest.c97c7d84211af94a5aa83425f86df431.js": "/react-framer-motion-pizza/precache-manifest.c97c7d84211af94a5aa83425f86df431.js",
+    "service-worker.js": "/react-framer-motion-pizza/service-worker.js",
+    "static/css/main.f0fd58af.chunk.css.map": "/react-framer-motion-pizza/static/css/main.f0fd58af.chunk.css.map",
+    "static/js/2.bfdb7452.chunk.js.LICENSE.txt": "/react-framer-motion-pizza/static/js/2.bfdb7452.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ae7044a.js",
+    "static/js/2.bfdb7452.chunk.js",
+    "static/css/main.f0fd58af.chunk.css",
+    "static/js/main.ce0be8e3.chunk.js"
+  ]
+}
